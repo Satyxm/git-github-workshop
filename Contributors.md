@@ -1,1 +1,3 @@
 - Satyam | CSE | XYZ Institute of Technology and Management
+- abhishek ! CSE ! IMRT
+- AYUSH MISHRA ! CSE ! IMRT
