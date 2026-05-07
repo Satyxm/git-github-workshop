@@ -1,1 +1,3 @@
 - Satyam | CSE | XYZ Institute of Technology and Management
+- Darsh| BCA | CIMS
+- Garv Shakya| BCA | CIMS
