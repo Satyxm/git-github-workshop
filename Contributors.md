@@ -1,4 +1,6 @@
 - Satyam | CSE | XYZ Institute of Technology and Management
+- Darsh| BCA | CIMS
+- Garv Shakya| BCA | CIMS
 - Ananya | BCA | College Of Innovative Management And Science
 - abhishek ! CSE ! IMRT
 - AYUSH MISHRA ! CSE ! IMRT
