@@ -1,4 +1,5 @@
 - Satyam | CSE | XYZ Institute of Technology and Management
+- sujal | it | imrt
 - Darsh| BCA | CIMS
 - Garv Shakya| BCA | CIMS
 - Ananya | BCA | College Of Innovative Management And Science
