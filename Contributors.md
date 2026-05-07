@@ -1,3 +1,6 @@
+- Satyam | CSE | XYZ Institute of Technology and Management
+- abhishek ! CSE ! IMRT
+- AYUSH MISHRA ! CSE ! IMRT
 name = ajay , college = University of Lucknow
 - Satyam | CSE | XYZ Institute of Technology and Management
 name  harendra singh bisht 
