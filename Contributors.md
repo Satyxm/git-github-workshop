@@ -1,4 +1,5 @@
 - Satyam | CSE | XYZ Institute of Technology and Management
+- Ananya | BCA | College Of Innovative Management And Science
 - abhishek ! CSE ! IMRT
 - AYUSH MISHRA ! CSE ! IMRT
 name = ajay , college = University of Lucknow
