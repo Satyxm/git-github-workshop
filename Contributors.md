@@ -1,1 +1,2 @@
 - Satyam | CSE | XYZ Institute of Technology and Management
+- Ananya | BCA | College Of Innovative Management And Science
