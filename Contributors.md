@@ -1,1 +1,2 @@
 - Satyam | CSE | XYZ Institute of Technology and Management
+- Aakriti | BCA | College of Innovative Management and Sciences
