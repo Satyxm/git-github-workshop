@@ -1,4 +1,5 @@
 - Satyam | CSE | XYZ Institute of Technology and Management
+name  harendra singh bisht 
 - Gargi | BCA | College of Innovative Management and sciences 
 - Bableen | CSE | College of Innovative Management and Sciences 
 - Krishna | BCA | IMRT Institute of Technology and Management
