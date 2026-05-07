@@ -31,11 +31,13 @@ cd git-github-workshop
 
 ### 3. Create a New Branch
 
-Branch Naming Format:
+Run this command now to create your branch:
 
 ```bash
-yourname-githubusername
+git checkout -b yourname-githubusername
 ```
+
+Replace `yourname-githubusername` with your actual name and GitHub username.
 
 Example:
 
