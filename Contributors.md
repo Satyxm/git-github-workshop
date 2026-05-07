@@ -1,3 +1,4 @@
+name = ajay , college = University of Lucknow
 - Satyam | CSE | XYZ Institute of Technology and Management
 name  harendra singh bisht 
 - Gargi | BCA | College of Innovative Management and sciences 
