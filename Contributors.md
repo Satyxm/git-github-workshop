@@ -1,1 +1,2 @@
 - Satyam | CSE | XYZ Institute of Technology and Management
+- Gargi | BCA | College of Innovative Management and sciences 
