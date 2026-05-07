@@ -1,1 +1,2 @@
 - Satyam | CSE | XYZ Institute of Technology and Management
+- Krishna | BCA | IMRT Institute of Technology and Management
