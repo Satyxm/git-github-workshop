@@ -17,3 +17,4 @@ name  harendra singh bisht
  Aayush Verma | BCA | CIMS
  Eishaan Rao  | BCA | CIMS
  Dev Yadav  | BCA | CIMS
+ Harendra singh |computer science| College of Innovative Management and science | 
